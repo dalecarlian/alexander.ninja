@@ -4,8 +4,6 @@ post_title: Fixa Inbox Zero i Outlook med 4-D
 author: alex
 post_excerpt: ""
 layout: post
-permalink: >
-  https://alexander.ninja/fixa-inbox-zero-i-outlook-med-4-d/
 published: true
 post_date: 2018-01-05 17:00:27
 ---
