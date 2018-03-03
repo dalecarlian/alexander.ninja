@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-02-01 12:00:29
 ---
-&nbsp;
-
 När man googlar på hur man skriver CV så säger många att man ska sälja in sig själv. Så hur gör man det då?
 
 Vi blir dagligen utsatta för liknande knep som du ska få läsa om nedan. Så varför ska inte du också göra det? Du är produkten och arbetsgivaren är kunden. Kunden köper din (fri)tid. Skapar du en produkt utan att förstå vad dina kunder vill ha så kommer resultatet bli dåligt. Samma gäller för ditt CV.
