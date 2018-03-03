@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-01 12:00:29
 ---
+<a href="https://alexander.ninja/wp-content/uploads/har-du-hackat-ditt-cv/hackatcvfront.jpg"><img class="alignnone size-large wp-image-72" src="https://alexander.ninja/wp-content/uploads/har-du-hackat-ditt-cv/hackatcvfront-1024x722.jpg" alt="" width="700" height="494" /></a>
+
 När man googlar på hur man skriver CV så säger många att man ska sälja in sig själv. Så hur gör man det då?
 
 Vi blir dagligen utsatta för liknande knep som du ska få läsa om nedan. Så varför ska inte du också göra det? Du är produkten och arbetsgivaren är kunden. Kunden köper din (fri)tid. Skapar du en produkt utan att förstå vad dina kunder vill ha så kommer resultatet bli dåligt. Samma gäller för ditt CV.
