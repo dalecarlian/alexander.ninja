@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-01 12:00:29
 ---
-<a href="https://alexander.ninja/wp-content/uploads/har-du-hackat-ditt-cv/hackatcvfront.jpg"><img class="alignnone size-large wp-image-72" src="https://alexander.ninja/wp-content/uploads/har-du-hackat-ditt-cv/hackatcvfront-1024x722.jpg" alt="" width="700" height="494" /></a>
+&nbsp;
 
 När man googlar på hur man skriver CV så säger många att man ska sälja in sig själv. Så hur gör man det då?
 
