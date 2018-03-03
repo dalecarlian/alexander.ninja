@@ -1,1 +1,1 @@
-# alexander.ninja
+# world wide web of alexander.ninja
